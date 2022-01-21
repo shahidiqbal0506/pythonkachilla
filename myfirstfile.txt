@@ -1,1 +1,2 @@
 This is my first file
+We are in Git 101 session
